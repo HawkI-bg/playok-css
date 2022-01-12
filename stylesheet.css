@@ -1,0 +1,19 @@
+/* 「ロール/ダブル」「パス」ボタン 白枠背景消し */
+.ctst0 {background:none !important; width:320px !important;}
+.ctcont.cttac.ctst0>.ctpan:nth-child(1) {background:#f0f0f0 !important;}
+.ctcont .nowrel.dsp1>button:nth-child(1) {margin-right:30px !important;}
+.nowrel.dsp1 button {background:#fff !important;}
+.nowrel.dsp1 button:hover {background:#39f !important;}
+.nowrel.dsp1 button:active {background:#6cf !important;}
+
+/* 時計 周辺 */
+.tplcont {font-size:24px !important; font-weight:bold !important;}
+.f12 {font-size:16px !important; font-weight:normal !important; padding:4px !important;}
+div[style*="width: 7px; height: 7px;"] {padding: 3px 3px 2px 2px !important;}
+div[style*="border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 7px solid rgba(255, 255, 255, 0.9)"] {border-left: 8px solid transparent !important; border-right: 8px solid transparent !important; border-top: 14px solid rgba(000, 255, 160, 0.9) !important;}
+button.butsys.butsit {font-size:16px !important; font-weight:bold !important;}
+button[style*="background: rgb(187, 187, 187)"] {font-size:18px !important; padding: 0px 6px 0px !important; margin:0px !important;}
+div[style*="font-size: 115%"] {font-size:16px !important; font-weight:bold !important;}
+div[style*="width: 52%;"] {width: 30% !important;}
+.trqcont .trqans {background: #fa1 !important; color: #000 !important; font-size:16px !important; font-weight:bold !important; padding:3px 8px !important; margin-top:6px !important;}
+.minw {margin-right:5px !important;}
